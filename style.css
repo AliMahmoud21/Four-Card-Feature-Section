@@ -125,10 +125,6 @@ body {
     justify-content: flex-end;
     padding-top: 2.375rem;
 }
-/* .content:hover img {
-    transform: rotateY(360deg);
-    transition: var(--transition2);
-} */
 .centering .yellow-card{
     margin: 30px 0;
 }
@@ -150,20 +146,4 @@ body {
 .yellow-card::before {
     background: var(--yellow);
 }
-
-/* .red-card:hover {
-    transform: translateY(-1.25rem);
-}
-
-.yellow-card:hover {
-    transform: translateY(1.25rem);
-}
-
-.blue-card:hover {
-    transform: translateX(1.25rem);
-}
-
-.cyan-card:hover {
-    transform: translateX(-1.25rem);
-} */
 /* End Styling Container */
